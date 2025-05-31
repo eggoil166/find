@@ -67,7 +67,7 @@ function App() {
 
   return (
     <div className="app-container">
-      <h1>Location Finder</h1>
+      <h1>title</h1>
       
       <div className="main-content">
         <div className="constraints-section">

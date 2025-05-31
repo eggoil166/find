@@ -1,18 +1,18 @@
 * {
-  box-sizing: border-box;
   margin: 0;
   padding: 0;
+  width: full;
 }
 
 body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
   padding: 20px;
+  width: full;
 }
 
 .app-container {
-  max-width: 1200px;
-  margin: 0 auto;
+  width: full;
 }
 
 h1 {
@@ -85,7 +85,7 @@ h1 {
 
 .map-container {
   height: 500px;
-  width: 100%;
+  width: 1000px;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
